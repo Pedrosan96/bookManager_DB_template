@@ -1,0 +1,7 @@
+pandas
+numpy
+scip
+matplotlib
+pytest
+
+
